@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ItemALL">
+      <UniqueIdentifier>{9f960bb8-1071-4a0f-b740-b3ca5d0fdb20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ModeALL">
+      <UniqueIdentifier>{83b2b8cf-f071-493c-b036-4192c3ba4759}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Player.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="BackGround.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="SubJadge.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>ItemALL</Filter>
+    </ClCompile>
+    <ClCompile Include="Item1.cpp">
+      <Filter>ItemALL</Filter>
+    </ClCompile>
+    <ClCompile Include="Item2.cpp">
+      <Filter>ItemALL</Filter>
+    </ClCompile>
+    <ClCompile Include="Item3.cpp">
+      <Filter>ItemALL</Filter>
+    </ClCompile>
+    <ClCompile Include="timer.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="ModeBase.cpp">
+      <Filter>ModeALL</Filter>
+    </ClCompile>
+    <ClCompile Include="ModeServer.cpp">
+      <Filter>ModeALL</Filter>
+    </ClCompile>
+    <ClCompile Include="ModeAMGLogo.cpp">
+      <Filter>ModeALL</Filter>
+    </ClCompile>
+    <ClCompile Include="ModeTitle.cpp">
+      <Filter>ModeALL</Filter>
+    </ClCompile>
+    <ClCompile Include="ModeGame.cpp">
+      <Filter>ModeALL</Filter>
+    </ClCompile>
+    <ClCompile Include="ModeTeamLogo.cpp">
+      <Filter>ModeALL</Filter>
+    </ClCompile>
+    <ClCompile Include="ModeResult.cpp">
+      <Filter>ModeALL</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerBeam.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Player.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="BackGround.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="SubJadge.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>ItemALL</Filter>
+    </ClInclude>
+    <ClInclude Include="Item1.h">
+      <Filter>ItemALL</Filter>
+    </ClInclude>
+    <ClInclude Include="Item2.h">
+      <Filter>ItemALL</Filter>
+    </ClInclude>
+    <ClInclude Include="Item3.h">
+      <Filter>ItemALL</Filter>
+    </ClInclude>
+    <ClInclude Include="timer.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="ModeBase.h">
+      <Filter>ModeALL</Filter>
+    </ClInclude>
+    <ClInclude Include="ModeServer.h">
+      <Filter>ModeALL</Filter>
+    </ClInclude>
+    <ClInclude Include="ModeAMGLogo.h">
+      <Filter>ModeALL</Filter>
+    </ClInclude>
+    <ClInclude Include="ModeTitle.h">
+      <Filter>ModeALL</Filter>
+    </ClInclude>
+    <ClInclude Include="ModeGame.h">
+      <Filter>ModeALL</Filter>
+    </ClInclude>
+    <ClInclude Include="ModeTeamLogo.h">
+      <Filter>ModeALL</Filter>
+    </ClInclude>
+    <ClInclude Include="ModeResult.h">
+      <Filter>ModeALL</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerBeam.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
